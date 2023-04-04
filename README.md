@@ -1,11 +1,25 @@
-# Bidding on Turtle Race Game using Python
+Turtle Racing in Python using Turtle Graphics
 
-This is a simple project for a Turtle Race Game, where players can place bids on which turtle they think will win the race. The game is built using Python and the Turtle Graphics module.
+This project is an implementation of a simple Turtle Racing game using Python Turtle Graphics. The game involves racing multiple turtles against each other and the first turtle to reach the finish line wins.
 
-The game starts by prompting players to place their bids on one of the turtles. Once all the bids are in, the turtles start racing on the game board. The winner is determined by the turtle that crosses the finish line first.
+Turtle Racing Screenshot
+Installation
 
-The game provides a fun and interactive way to learn about Python's Turtle Graphics module and practice programming skills. It also teaches concepts related to bidding and probability, as players have to consider the odds of each turtle winning before placing their bids.
+    Clone this repository to your local machine using git clone https://github.com/yourusername/turtle-racing.git
+    Ensure that you have Python 3 installed.
+    Install the turtle module, which is a standard Python library.
+    Run python turtle_racing.py to start the game.
 
-To play the game, simply run the Python script and follow the prompts to place your bid. The game board will be displayed on a new window and the turtles will start racing once all bids are in. The winner will be announced once the race is complete.
+How to Play
 
-Overall, the Bidding on Turtle Race Game project is a great way to learn about Python programming and have fun at the same time. It provides a fun and interactive way to practice programming skills while also teaching concepts related to probability and bidding.
+    The game allows you to choose the number of turtles that will participate in the race.
+    Each turtle is assigned a unique color and starts from a fixed position on the screen.
+    The turtles will move forward randomly and the first turtle to reach the finish line wins.
+
+Project Structure
+
+    main.py - the main Python script for the Turtle Racing game.
+
+Contributing
+
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are always welcome!
