@@ -18,7 +18,7 @@ How to Play
 
 Project Structure
 
-    main.py - the main Python script for the Turtle Racing game.
+    turtle race game.py - the main Python script for the Turtle Racing game.
 
 Contributing
 
